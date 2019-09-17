@@ -1,0 +1,17 @@
+{
+  "name": "rake-tar",
+  "version": "1.0.0",
+  "description": "Tar for rake.",
+  "main": "index.rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rake-tar.git"
+  },
+  "keywords": ["rake", "task"],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/rake-tar/issues"
+  },
+  "homepage": "https://github.com/afeiship/rake-tar#readme"
+}
