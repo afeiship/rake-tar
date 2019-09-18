@@ -27,7 +27,7 @@ namespace :tar do
   end
 
   desc "Delete packages."
-  task :del, [:filename] do |task, args|
+  task :delete, [:filename] do |task, args|
     args.with_defaults(
       filename: "*.tar.gz",
     )
